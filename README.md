@@ -23,7 +23,8 @@ India, a diverse nation of over 1.3 billion people, is home to a plethora of lan
 4. Compare the geographical distribution of languages with other socio-economic factors to identify potential correlations
 5. Generate insights and recommendations for the preservation and revitalization of rural languages in India
 
-## Instructions to Contribute: To contribute to this project, you can follow these steps:
+## Instructions to Contribute: 
+To contribute to this project, you can follow these steps:
 1. Identify and extract relevant language data from the mentioned sources
 2. Preprocess the data and handle missing values or inconsistencies
 3. Perform linguistic analysis and visualize the data
